@@ -292,6 +292,28 @@ body { font-family: Raleway, sans-serif; }
   }
 }
 
+.blog-main {
+
+  & {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+  }
+
+  article {
+    line-height: 1.5;
+    padding: 3em 0;
+  }
+
+  h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+  }
+
+  p {
+    margin-bottom: 1.5em;
+  }
+}
+
 footer {
   display: none;
 }
