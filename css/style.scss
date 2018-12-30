@@ -203,6 +203,11 @@ body { font-family: Raleway, sans-serif; }
     a, a:visited {
       color: $steelblue;
       text-decoration: none;
+      font-weight: bold;
+
+      @include for-tablet-landscape-up {
+        font-weight: normal;
+      }
     }
 
     a:hover {
