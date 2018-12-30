@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Why AI in education is here to stay"
+date:   2018-03-27 09:30:00 +0100
+categories: ai education adaptive-learning ethics
+permalink: /blog/2018-03-27-why-ai-in-education-is-here-to-stay
+image: ai-robot001.jpg
+summary: "Looking at the ethics of Artificial Intelligence, its impact on society and how adaptive learning systems will change education"
+---
+
+*In three years, Cyberdyne will become the largest supplier of military computer systems. All stealth bombers are upgraded with Cyberdyne computers, becoming fully unmanned. Afterwards, they fly with a perfect operational record. The Skynet Funding Bill is passed. The system goes online August 4th, 1997. Human decisions are removed from strategic defence. Skynet begins to learn at a geometric rate. It becomes self-aware at 2.14 am Eastern time, August 29th. In a panic, they try to pull the plug. Skynet fights back.*
+
+More than 20 years after the film Terminator predicted that artificial intelligence would result in the end of humanity, we still seem to be largely in control of our own destiny, as a species. However, there have been phenomenal advances in the field of AI during that period and artificially intelligent systems are already beginning to replace jobs in warehouses, call-centres and other areas of work. AI is assisting us in our homes, through devices such as Amazon’s Alexa, and changing how we approach teaching and learning, with the advent of adaptive learning systems. The effect on jobs is predicted by some to be so extensive that organisations such as the RSA have begun to advocate a universal basic income – fundamentally changing the model of our society.
+
+This rapid change brings with it a number of ethical considerations about the future of humanity, the nature of work and the role of schools in preparing young people to thrive in a world where AI is ubiquitous. Leaving the moral questions of AI-enabled robot soldiers to one side for the moment, even the algorithms operating self-driving cars will have to consider how to respond to what philosophers refer to as the ‘trolley problem’. Should a self-driving car swerve to avoid a group of children, who have stepped into the road without looking, even if it involves knocking over a single pedestrian on the pavement? To what extent will software developers be able to control such decisions, as the algorithms adapt and optimise themselves, without the need for human input?
+
+In the classroom, AI promises to offer an entirely unique programme of education to every individual student, adapted perfectly to their needs and rate of progress. What purpose do teachers serve in this new academic arcadia? What need is there for schools at all, if AI teachers are accessible from any device and in any location? There are, perhaps, reasons to be optimistic. Schools offer the opportunity to interact with others, to collaborate, share and debate. The society of the future will need our young people to have big ideas, to be able to articulate them and to harness the power of technology to implement them, in order to solve some of the world’s problems. There is little doubt that schools have a vital part to play in shaping the society of the future, although the role of teachers may change significantly, possibly to something much closer to that of mentors, guiding students through their education, assisted by AI systems.
+
+AI is here to stay and schools will need to adapt quickly, if they are to prepare their young people for life in a rapidly changing world. The message from artificially intelligent systems to all of us seems to be “come with me, if you want to live”
+
+This article originally appeared in [Independent Education Today](https://ie-today.co.uk/Article/why-ai-is-here-to-stay).
