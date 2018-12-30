@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: blog-front
 title: Simon Balderson - Blog Posts
 ---
 
