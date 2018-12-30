@@ -32,7 +32,7 @@ title: Simon Balderson - Blog Posts
   </section>
 
   <section id="blog-footer">
-    <p>Footer</p>
+    
   </section>
 
 </div>
