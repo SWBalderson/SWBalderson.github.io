@@ -33,21 +33,21 @@ layout: home
     </main>
 
     <footer>
-      <a class="fa-layers fa-4x myblog" href="{{site.url}}/blog">
+      <a class="fa-layers fa-4x myblog" href="{{site.url}}/blog" aria-label="blog">
         <i class="fa fa-circle"></i>
         <i class="fas fa-pencil-alt fa-inverse" data-fa-transform="shrink-7"></i>
       </a>
       <!--
-      <a class="fa-layers fa-4x mycv" href="{{site.url}}/cv.html">
+      <a class="fa-layers fa-4x mycv" href="{{site.url}}/cv.html" aria-label="cv">
         <i class="fa fa-circle"></i>
         <i class="far fa-file-alt fa-inverse" data-fa-transform="shrink-7"></i>
       </a>
       -->
-      <a class="fa-layers fa-4x linkedin" href="https://www.linkedin.com/in/simonbalderson/">
+      <a class="fa-layers fa-4x linkedin" href="https://www.linkedin.com/in/simonbalderson/" aria-label="linkedin">
         <i class="fa fa-circle"></i>
         <i class="fab fa-linkedin-in fa-inverse" data-fa-transform="shrink-6"></i>
       </a>
-      <a class="fa-layers fa-4x twitter" href="https://twitter.com/SimonWBalderson">
+      <a class="fa-layers fa-4x twitter" href="https://twitter.com/SimonWBalderson" aria-label="aria">
         <i class="fa fa-circle"></i>
         <i class="fab fa-twitter fa-inverse" data-fa-transform="shrink-6 down-.25 right-.25"></i>
       </a>
